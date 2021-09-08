@@ -25,7 +25,7 @@ A few more lurking bits....
 
 * **Plugins**
 
-  AdvancedNMotd-9.2.0.jar, BuycraftX.jar, ChatEx.jar, ChatItemDisplay 1.8.7.jar, ChunkSpawnerLimiter-4.1.5.jar, ColoredAnvils.jar, DeathHeadDrop.jar, FredashaySpigotBedClaim.jar, HopperFilter.jar, ItemsAdder.jar, LightAPI-fork-3.5.2.jar, LoneLibs.jar, LuckPerms-Bukkit-5.3.57.jar, NoCheatPlus.jar, PL-Hide-1.5.19.jar, PlayerKits.jar, ProtocolLib.jar, ProtocolSupport.jar, QuantumAPI.jar, QuantumWild.jar, SimpleMessage-v1.0.0-STABLE.jar, Sleep.jar, Vault.jar, ViaBackwards-4.0.1.jar, ViaVersion-4.0.1.jar, hubplus-1.0.4.jar, links-0.10.jar, worldedit-bukkit-7.2.5-dist.jar, worldguard-bukkit-7.0.5-dist.jar
+  AFK.jar, AdvancedArmorstands\_1.16.jar, AdvancedNMotd-9.2.0.jar, AdvancedTimber.jar, BKCommonLib-1.17.1-v2-1111.jar, BetterPortals-0.9.0.jar, BuycraftX.jar, ChatEx.jar, ChatItemDisplay 1.8.8.jar, ChunkSpawnerLimiter-4.1.5.jar, ColoredAnvils.jar, DeathHeadDrop.jar, FilteredHoppers.jar, FredashaySpigotBedClaim.jar, ItemsAdder.jar, JukeBoxPlus.jar, LightAPI-fork-3.5.2.jar, LoneLibs.jar, LuckPerms-Bukkit-5.3.57.jar, NoCheatPlus.jar, PL-Hide-1.5.19.jar, PlayerKits.jar, ProtocolLib.jar, ProtocolSupport.jar, QuantumAPI.jar, QuantumWild.jar, SimpleMessage-v1.0.0-STABLE.jar, Sleep.jar, Vault.jar, ViaBackwards-4.0.1.jar, ViaVersion-4.0.1.jar, hubplus-1.0.4.jar, links-0.10.jar, worldedit-bukkit-7.2.5-dist.jar, worldguard-bukkit-7.0.5-dist.jar  
 
 * **Text Styles**
 
@@ -34,7 +34,7 @@ A few more lurking bits....
 
 * **Discord**
 
-  Feel free to drop in our Discord channel. Talk with others and even share your stuff.
+  Feel free to drop in our Discord channel. Talk with others and even share your stuff.  
 
 * **Voting**
 
