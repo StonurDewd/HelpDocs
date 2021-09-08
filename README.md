@@ -3,13 +3,13 @@
 ## The POA Experience
 
 POA is a Survial Modded Anarchy Server.  
- Using special plugins, this server has a modded feel with over 400 new items. Food, Weapons, Vehicles, Wearables and more! These were brought in for the builders of the Anarchy world. However, PVP'rs will also enjoy higher armor and weapons too. Keeping it easy to navigate, our Spawn features vending machines and portals to Nether and End regions.
+ Using special plugins, this server has a modded feel with nearly 1400 new items. Food, Weapons, Vehicles, Wearables and more! These were brought in for the builders of the Anarchy world. However, PVP'rs will also enjoy higher armor and weapons too. Keeping it easy to navigate, our Spawn features vending machines and portals to Nether and End regions.
 
  So what are you waiting for? Come on in and start your journey.
 
 ## Hacking Allowed
 
-Our server keeps it minimal when it comes to the plugins we use. Hoever, keeping the experience level for everyone is our main goal. Special plugins are used to help us achieve this.
+Our server keeps it minimal when it comes to the plugins we use. However, keeping the experience level for everyone is our main goal. Special plugins are used to help us achieve this.
 
 ## PVP
 
@@ -17,7 +17,7 @@ No limitations on player interaction. Hunt them down or just sit at spawn and wa
 
 ## Build and explore
 
-More to explore and always close to spawn with our /spawn system. With ItemsAdded, there is close to 450 new items brought onto the server. HopperFilter makes it even easier to filter out items without the lengthy Redstone. Just toss on an item frame and place the filtered object in it.
+More to explore and always close to spawn with our /spawn system. With ItemsAdded, there is close to 1400 new items brought onto the server. FilteredHoppers makes it even easier to filter out items without the lengthy Redstone. 
 
 ## More at POA
 
