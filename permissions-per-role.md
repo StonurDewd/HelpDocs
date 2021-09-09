@@ -34,7 +34,8 @@ ia.menu.fishes true
 ia.menu.fishing_rods true  
 ia.menu.furnitures true  
 ia.menu.generic_items false  
-ia.menu.halloween ia.menu.hats true  
+ia.menu.halloween false  
+ia.menu.hats true  
 ia.menu.hoes true  
 ia.menu.i true  
 ia.menu.icons false  
