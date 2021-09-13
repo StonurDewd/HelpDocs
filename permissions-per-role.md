@@ -13,8 +13,6 @@ chatitemdisplay.display.* true
 ia.itembound.* true  
 ia.menu.* true  
 aa.edit false  
-betterportals.see true  
-betterportals.use true  
 bukkit.command.tps true  
 deathheaddrop.drop_head true  
 hubplus.spawn true  
@@ -67,7 +65,6 @@ ia.user.iarecipe true
 ia.user.iasha1 true  
 ia.user.iatexture true  
 ia.user.image true  
-jukebox.use true  
 links.discord true  
 links.site true  
 links.vote true  
@@ -92,22 +89,17 @@ ia.user.image.book true
 ia.user.image.chat true   
 ia.user.image.gui true   
 ia.user.image.hints true   
-ia.user.image.sign true   
-jukebox.loop true   
-jukebox.shuffle true   
+ia.user.image.sign true    
 playerkits.kit.diamond true   
 playerkits.kit.donator true   
-sleep.cancel true   
-timber.trigger true`
+sleep.cancel true` 
 
 ![](.gitbook/assets/vipplus.png)**Donator + Permissions**:  
 `nocheatplus.checks.* true   
 aa.clone true   
 aa.head true   
 aa.names true   
-group.donator true   
-jukebox.autostart true   
-jukebox.radius true   
+group.donator true    
 nocheatplus.shortcut.bypass true   
 playerkits.kit.++ true` 
 
