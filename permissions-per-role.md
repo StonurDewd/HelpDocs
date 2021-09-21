@@ -109,5 +109,6 @@ group.donator
 jukebox.autostart   
 jukebox.radius   
 nocheatplus.shortcut.bypass   
-playerkits.kit.++` 
+playerkits.kit.++   
+worldborder.bypass`
 
