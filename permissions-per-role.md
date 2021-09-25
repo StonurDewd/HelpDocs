@@ -16,11 +16,7 @@ autoshulker.craft.autoshulker
 autoshulker.use.autoshulker   
 booknews.news   
 bukkit.command.tps   
-discordsrv.player  
-doorsreloaded.knock`  
-`doorsreloaded.doubledoors  
-DecorHeads.DropHeads  
-DecorHeads.CraftHeads  
+deathheaddrop.drop_head   
 fusedvote.vote   
 hubplus.spawn   
 ia.itembound   
