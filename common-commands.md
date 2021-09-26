@@ -7,9 +7,6 @@ description: A brief rundown of the most common commands for our server.
 **/SPAWN**  
 _`Takes you to the main world spawn`_
 
-**/SITE**  
-_`Displays our website link`_
-
 **/DISCORD**  
 _`Displays our Discord link`_
 
