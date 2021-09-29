@@ -1,5 +1,5 @@
 ---
-description: 'Current Version : Paper 1.16.5'
+description: 'Current Version : Paper 1.17.1'
 ---
 
 # Packets Of Anarchy
@@ -7,7 +7,7 @@ description: 'Current Version : Paper 1.16.5'
 ## The POA Experience
 
 POA is a Survial Modded Anarchy Server.  
- Using special plugins, this server has a modded feel with nearly 1400 new items. Food, Weapons, Vehicles, Wearables and more! These were brought in for the builders of the Anarchy world. However, PVP'rs will also enjoy higher armor and weapons too. Keeping it easy to navigate, our Spawn features vending machines and portals to Nether and End regions.
+ Using special plugins, this server has a modded feel with nearly 1700 new items. Food, Weapons, Vehicles, Wearables and more! These were brought in for the builders of the Anarchy world. However, PVP'rs will also enjoy higher armor and weapons too. Keeping it easy to navigate, our Spawn features vending machines and portals to Nether and End regions.
 
  So what are you waiting for? Come on in and start your journey.
 
@@ -29,7 +29,7 @@ A few more lurking bits....
 
 * **Plugins**
 
-  AFK.jar, AdvancedArmorstands\_1.16.jar, AdvancedNMotd-9.2.0.jar, AutoShulker.jar, BKCommonLib-1.17.1-v2-1111.jar, BookNews 5.4.jar, BuycraftX.jar, ChatEx.jar, ChatItemDisplay 1.8.8.jar, ColoredAnvils.jar, DeathHeadDrop.jar, FilteredHoppers.jar, FusedVote.jar, ItemsAdder.jar, JukeBoxPlus.jar, LibsDisguises-10.0.26-Premium.jar, LightAPI-fork-3.5.2.jar, LoneLibs.jar, LuckPerms-Bukkit-5.3.57.jar, NoCheatPlus.jar, PL-Hide-1.5.19.jar, PlayerKits.jar, ProtocolLib.jar, ProtocolSupport.jar, QuantumAPI.jar, QuantumWild.jar, SimpleMessage-v1.0.0-STABLE.jar, Sleep.jar, Vault.jar, ViaBackwards-4.0.1.jar, ViaVersion-4.0.1.jar, hubplus-1.0.4.jar, worldedit-bukkit-7.2.5-dist.jar, worldguard-bukkit-7.0.5-dist.jar,  
+  AdvancedArmorstands\_1.16.jar, AdvancedNMotd-9.2.0.jar, Aliases.jar, Anvil Color.jar, AutoShulker.jar, BKCommonLib-1.17.1-v2-1111.jar, BookNews 5.4.jar, BuycraftX.jar, ChatItemDisplay 1.8.8.jar, Credits.jar, DecorHeads.jar, DiscordSRV-Build-1.24.0.jar, DoorsReloaded.jar, EliteMobs.jar, EssentialsX-2.19.0.jar, EssentialsXChat-2.19.0.jar, FilteredHoppers.jar, FusedVote.jar, Harbor-1.6.3.jar, ItemsAdder.jar, JukeBoxPlus.jar, LibsDisguises-10.0.26-Premium.jar, LightAPI-fork-3.5.2.jar, LoneLibs.jar, LuckPerms-Bukkit-5.3.57.jar, LumberJack.jar, NoCheatPlus.jar, PlaceholderAPI-2.10.10.jar, PlayerKits.jar, ProtocolLib.jar, ProtocolSupport.jar, RePlant.jar, TAB\_v2.9.2.jar, Vault.jar, hubplus-1.0.4.jar, nuvotifier.jar, worldedit-bukkit-7.2.5-dist.jar, worldguard-bukkit-7.0.5-dist.jar  
 
 * **Text Styles**
 
