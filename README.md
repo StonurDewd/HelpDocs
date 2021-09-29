@@ -1,5 +1,5 @@
 ---
-description: 'Current Version : Paper 1.17.1'
+description: 'Current Version : Paper 1.16.5'
 ---
 
 # Packets Of Anarchy
@@ -7,7 +7,7 @@ description: 'Current Version : Paper 1.17.1'
 ## The POA Experience
 
 POA is a Survial Modded Anarchy Server.  
- Using special plugins, this server has a modded feel with nearly 1700 new items. Food, Weapons, Vehicles, Wearables and more! These were brought in for the builders of the Anarchy world. However, PVP'rs will also enjoy higher armor and weapons too. Keeping it easy to navigate, our Spawn features vending machines and portals to Nether and End regions.
+ Using special plugins, this server has a modded feel with nearly 1400 new items. Food, Weapons, Vehicles, Wearables and more! These were brought in for the builders of the Anarchy world. However, PVP'rs will also enjoy higher armor and weapons too. Keeping it easy to navigate, our Spawn features vending machines and portals to Nether and End regions.
 
  So what are you waiting for? Come on in and start your journey.
 
