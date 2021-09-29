@@ -4,12 +4,11 @@ description: A breakdown of server roles and the permissions they've been grante
 
 # Permissions Per Role
 
-{% tabs %}
-{% tab title="Default" %}
-![](.gitbook/assets/player.png) **Default Permissions**:  
+\*\*\*\*![](.gitbook/assets/player.png) **Default Permissions**:  
 `chatitemdisplay.command.display.*  
 ia.user.craft.*  
 ia.user.ia.*  
+chatbot.use.*  
 chatitemdisplay.display.*  
 ia.itembound.*  
 ia.menu.*   
@@ -17,11 +16,7 @@ autoshulker.craft.autoshulker
 autoshulker.use.autoshulker   
 booknews.news   
 bukkit.command.tps   
-discordsrv.player  
-doorsreloaded.knock`  
-`doorsreloaded.doubledoors  
-DecorHeads.DropHeads  
-DecorHeads.CraftHeads  
+deathheaddrop.drop_head   
 fusedvote.vote   
 hubplus.spawn   
 ia.itembound   
@@ -83,10 +78,10 @@ links.site
 links.vote   
 medieval_pack   
 meta.quantum.wild.cooldown.300   
-playerkits.list`  
-{% endtab %}
+playerkits.list    
+quantum.wild.use   
+sleep.sleep` 
 
-{% tab title="Donator" %}
 ![](.gitbook/assets/vip.png)**Donator Permissions**:  
 `ia.user.image.use.*   
 aa.edit   
@@ -104,9 +99,7 @@ jukebox.shuffle
 playerkits.kit.diamond   
 playerkits.kit.donator   
 sleep.cancel` 
-{% endtab %}
 
-{% tab title="Donator +" %}
 ![](.gitbook/assets/vipplus.png)**Donator + Permissions**:  
 `nocheatplus.checks.*   
 aa.clone   
@@ -118,6 +111,4 @@ jukebox.radius
 nocheatplus.shortcut.bypass   
 playerkits.kit.++   
 worldborder.bypass`
-{% endtab %}
-{% endtabs %}
 
