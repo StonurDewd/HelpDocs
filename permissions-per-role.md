@@ -4,20 +4,53 @@ description: A breakdown of server roles and the permissions they've been grante
 
 # Permissions Per Role
 
-\*\*\*\*![](.gitbook/assets/player.png) **Default Permissions**:  
-`chatitemdisplay.command.display.*  
-ia.user.craft.*  
-ia.user.ia.*  
-chatbot.use.*  
-chatitemdisplay.display.*  
-ia.itembound.*  
-ia.menu.*   
+{% tabs %}
+{% tab title="Default" %}
+![](.gitbook/assets/player.png) Default Permissions:  
+`chatitemdisplay.command.display.  
+ia.user.craft.  
+ia.user.ia.   
+chatitemdisplay.display.   
+ia.itembound.*   
+DecorHeads.DropHeads   
+DecorHeads.Wiki   
 autoshulker.craft.autoshulker   
 autoshulker.use.autoshulker   
 booknews.news   
 bukkit.command.tps   
-deathheaddrop.drop_head   
+discordsrv.player   
+doorsreloaded.doubledoors   
+doorsreloaded.knock   
+elitemobs.adventurersguild.teleport   
+elitemobs.back.npc   
+elitemobs.currency.check   
+elitemobs.currency.pay   
+elitemobs.customshop.command   
+elitemobs.customshop.npc   
+elitemobs.dungeontp   
+elitemobs.events   
+elitemobs.quest   
+elitemobs.rank.command   
+elitemobs.rank.npc   
+elitemobs.shareitem   
+elitemobs.shop.command   
+elitemobs.shop.npc   
+elitemobs.spawntp   
+essentials.afk   
+essentials.afk.auto   
+essentials.balance   
+essentials.balancetop   
+essentials.disposal   
+essentials.ignore   
+essentials.mail   
+essentials.mail.send   
+essentials.me   
+essentials.msg   
+essentials.pay   
+essentials.spawn   
 fusedvote.vote   
+hubplus.hub   
+hubplus.main   
 hubplus.spawn   
 ia.itembound   
 ia.itembound.furnitures   
@@ -35,18 +68,16 @@ ia.menu.fishes
 ia.menu.fishing_rods   
 ia.menu.fruits   
 ia.menu.furnitures   
-ia.menu.halloween   
 ia.menu.hats   
 ia.menu.hoes   
 ia.menu.i   
 ia.menu.icecream   
 ia.menu.ingredients   
 ia.menu.instruments   
-ia.menu.jinglejammin   
 ia.menu.machines   
 ia.menu.meals   
 ia.menu.minerals   
-ia.menu.musicdiscs  
+ia.menu.musicdiscs   
 ia.menu.n   
 ia.menu.ores   
 ia.menu.paintings   
@@ -69,19 +100,18 @@ ia.menu.weapons
 ia.user.craft   
 ia.user.ia   
 ia.user.iarecipe   
-ia.user.iasha1   
 ia.user.iatexture   
 ia.user.image   
 jukebox.use   
-links.discord   
-links.site   
-links.vote   
+lumberjack.force   
+lumberjack.use   
 medieval_pack   
-meta.quantum.wild.cooldown.300   
-playerkits.list    
-quantum.wild.use   
-sleep.sleep` 
+playerkits.list   
+prefix.80.§f§r   
+weight.80`
+{% endtab %}
 
+{% tab title="Donator" %}
 ![](.gitbook/assets/vip.png)**Donator Permissions**:  
 `ia.user.image.use.*   
 aa.edit   
@@ -99,7 +129,9 @@ jukebox.shuffle
 playerkits.kit.diamond   
 playerkits.kit.donator   
 sleep.cancel` 
+{% endtab %}
 
+{% tab title="Donator +" %}
 ![](.gitbook/assets/vipplus.png)**Donator + Permissions**:  
 `nocheatplus.checks.*   
 aa.clone   
@@ -111,4 +143,6 @@ jukebox.radius
 nocheatplus.shortcut.bypass   
 playerkits.kit.++   
 worldborder.bypass`
+{% endtab %}
+{% endtabs %}
 
