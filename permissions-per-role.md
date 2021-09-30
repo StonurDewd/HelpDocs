@@ -6,7 +6,7 @@ description: A breakdown of server roles and the permissions they've been grante
 
 {% tabs %}
 {% tab title="Default" %}
-![](.gitbook/assets/player.png) Default Permissions:  
+![](.gitbook/assets/player.png) **Default Permissions:**  
 `chatitemdisplay.command.display.  
 ia.user.craft.  
 ia.user.ia.   
@@ -116,6 +116,9 @@ weight.80`
 `ia.user.image.use.*   
 aa.edit   
 aa.visible   
+ac.colors   
+ac.list   
+ac.use   
 group.default   
 ia.menu.mobs   
 ia.user.image.anvil   
@@ -128,7 +131,8 @@ jukebox.loop
 jukebox.shuffle   
 playerkits.kit.diamond   
 playerkits.kit.donator   
-sleep.cancel` 
+prefix.90.§f§r   
+weight.90`
 {% endtab %}
 
 {% tab title="Donator +" %}
