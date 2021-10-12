@@ -4,4 +4,4 @@
 * [Craftables](craftables.md)
 * [Common Commands](common-commands.md)
 * [Permissions Per Role](permissions-per-role.md)
-
+* [Plugins](plugins.md)
