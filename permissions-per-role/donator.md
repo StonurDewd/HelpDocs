@@ -1,3 +1,7 @@
+---
+description: Starting @ $5
+---
+
 # 💛 Donator
 
 ![](../.gitbook/assets/vip.png)**Donator Permissions:**
