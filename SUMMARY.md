@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Packets Of Anarchy](README.md)
-* [Around the Server](around-the-server.md)
+* [🌎 Packets Of Anarchy](README.md)
+* [🗺 Around the Server](around-the-server.md)
 * [Dungeons!](dungeons.md)
 * [Craftables](craftables.md)
 * [Common Commands](common-commands.md)
