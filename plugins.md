@@ -2,7 +2,7 @@
 description: List of all plugins currently used by Packets of Anarchy
 ---
 
-# Plugins
+# 🔣 Plugins
 
 `AdvancedArmorstands_1.16.jar`
 

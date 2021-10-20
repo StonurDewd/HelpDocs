@@ -2,7 +2,7 @@
 description: These dungeons are from Elite Mobs. Do /em ingame to teleport to them.
 ---
 
-# Dungeons!
+# ⚔ Dungeons!
 
 ![The Oasis](<.gitbook/assets/The Oasis.png>)
 

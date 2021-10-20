@@ -1,4 +1,4 @@
-# Around the Server
+# 🗺 Around the Server
 
 Hub:
 
@@ -18,6 +18,6 @@ Jump:
 
 ![A world of Parkour](<.gitbook/assets/Jump Overview.png>)
 
-PVP: 
+PVP:&#x20;
 
 ![PVP World](<.gitbook/assets/PVP Overview.png>)

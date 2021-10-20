@@ -2,7 +2,7 @@
 description: A brief rundown of the most common commands for our server.
 ---
 
-# Common Commands
+# 🔥 Common Commands
 
 **/SPAWN**\
 _`Takes you to the main world spawn.`_
