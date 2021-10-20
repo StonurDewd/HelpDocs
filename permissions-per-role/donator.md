@@ -1,4 +1,4 @@
-# Donator
+# 💛 Donator
 
 ![](../.gitbook/assets/vip.png)**Donator Permissions:**
 

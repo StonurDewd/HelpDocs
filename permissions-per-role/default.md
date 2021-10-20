@@ -1,4 +1,4 @@
-# Default
+# ❤ Default
 
 ![](../.gitbook/assets/player.png)** Default Permissions:**\
 `chatitemdisplay.command.display.`\

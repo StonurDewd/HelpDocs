@@ -1,4 +1,4 @@
-# Donator +
+# 💚 Donator +
 
 ![](../.gitbook/assets/vipplus.png)**Donator + Permissions**:\
 `nocheatplus.checks.* `\
