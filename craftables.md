@@ -19,3 +19,9 @@ With Auto Shulker you can now craft a Shulker Box that automatically picks up ce
 ![](<.gitbook/assets/image (2).png>)
 
 You just have to place an empty shulker box, a book, and then whatever item(s) you want it to auto collect - It's that simple.&#x20;
+
+## Anvil Color
+
+With a Donator(VIP) or Donator+(VIP+) role, we allow the use of colors in the Anvil. Below are the codes for Formatting the Name.
+
+![](.gitbook/assets/example2.png)
