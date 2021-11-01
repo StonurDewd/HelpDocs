@@ -6,8 +6,6 @@ description: Starting @ $5
 
 ![](../.gitbook/assets/vip.png)**Donator Permissions:**
 
-`ia.user.image.use.* `
-
 `aa.edit `
 
 `aa.visible `
@@ -23,20 +21,6 @@ description: Starting @ $5
 `essentials.home `
 
 `group.default `
-
-`ia.menu.mobs `
-
-`ia.user.image.anvil `
-
-`ia.user.image.book `
-
-`ia.user.image.chat `
-
-`ia.user.image.gui `
-
-`ia.user.image.hints `
-
-`ia.user.image.sign `
 
 `jukebox.loop `
 

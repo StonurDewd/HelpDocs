@@ -2,10 +2,7 @@
 
 ![](../.gitbook/assets/player.png)** Default Permissions:**\
 `chatitemdisplay.command.display.`\
-`ia.user.craft.`\
-`ia.user.ia. `\
 `chatitemdisplay.display. `\
-`ia.itembound.* `\
 `DecorHeads.DropHeads `\
 `DecorHeads.Wiki `\
 `autoshulker.craft.autoshulker `\
@@ -46,56 +43,6 @@
 `hubplus.hub `\
 `hubplus.main `\
 `hubplus.spawn `\
-`ia.itembound `\
-`ia.itembound.furnitures `\
-`ia.menu.alchemy `\
-`ia.menu.armors `\
-`ia.menu.axes `\
-`ia.menu.blocks `\
-`ia.menu.books `\
-`ia.menu.bows `\
-`ia.menu.chairs `\
-`ia.menu.dishes `\
-`ia.menu.drinks `\
-`ia.menu.eatables `\
-`ia.menu.fishes `\
-`ia.menu.fishing_rods `\
-`ia.menu.fruits `\
-`ia.menu.furnitures `\
-`ia.menu.hats `\
-`ia.menu.hoes `\
-`ia.menu.i `\
-`ia.menu.icecream `\
-`ia.menu.ingredients `\
-`ia.menu.instruments `\
-`ia.menu.machines `\
-`ia.menu.meals `\
-`ia.menu.minerals `\
-`ia.menu.musicdiscs `\
-`ia.menu.n `\
-`ia.menu.ores `\
-`ia.menu.paintings `\
-`ia.menu.pickaxes `\
-`ia.menu.potions `\
-`ia.menu.realcraft `\
-`ia.menu.sandwiches `\
-`ia.menu.seeds `\
-`ia.menu.shears `\
-`ia.menu.shields `\
-`ia.menu.shovels `\
-`ia.menu.snacks `\
-`ia.menu.special `\
-`ia.menu.swords `\
-`ia.menu.throwables `\
-`ia.menu.various `\
-`ia.menu.vegetables `\
-`ia.menu.vehicles `\
-`ia.menu.weapons `\
-`ia.user.craft `\
-`ia.user.ia `\
-`ia.user.iarecipe `\
-`ia.user.iatexture `\
-`ia.user.image `\
 `jukebox.use `\
 `lumberjack.force `\
 `lumberjack.use `\
