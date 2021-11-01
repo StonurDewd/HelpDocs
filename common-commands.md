@@ -13,6 +13,11 @@ _`Displays our Discord link.`_
 **/VOTE**\
 _`Displays our links to voting.`_
 
+**/IA**\
+_`Displays the items brought to the server by ItemsAdder.`_\
+**/IAWHATISTHIS**\
+_`Will inform you of crafting/use of held ItemsAdder items .`_
+
 **/AA**\
 _`Brings up the GUI to pose Armor Stands.`_
 
