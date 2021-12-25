@@ -4,32 +4,4 @@ description: Starting @ $5
 
 # 💛 Donator
 
-**Donator Permissions:**
-
-`aa.edit`&#x20;
-
-`aa.visible`&#x20;
-
-`ac.colors`&#x20;
-
-`ac.list`&#x20;
-
-`ac.use`&#x20;
-
-`essentials.back`&#x20;
-
-`essentials.home`&#x20;
-
-`group.default`&#x20;
-
-`jukebox.loop`&#x20;
-
-`jukebox.shuffle`&#x20;
-
-`playerkits.kit.diamond`&#x20;
-
-`playerkits.kit.donator`&#x20;
-
-`prefix.90.§f§r`&#x20;
-
-`weight.90`
+aa.edit aa.visible ac.colors ac.list ac.use essentials.back essentials.home jukebox.loop jukebox.shuffle mexbot.taiga.boar mexbot.taiga.bunny\_brown mexbot.taiga.bunny\_white mexbot.taiga.eagle\_american mexbot.taiga.wolf\_black mexbot.taiga.wolf\_brown mexbot.taiga.wolf\_white playerkits.kit.diamond playerkits.kit.donator
