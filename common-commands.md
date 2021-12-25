@@ -37,6 +37,9 @@ _`Opens the GUI to get free groovy stuff.`_
 **/HUB**\
 ****`Takes you to the Elite Mobs Hub.`
 
+**/ADVANCEDPET**\
+`Opens the Pet GUI.`
+
 **/HOME\*\***
 
 `Takes you to your bed location.`
