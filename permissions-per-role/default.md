@@ -1,6 +1,6 @@
 # ❤ Default
 
-![](../.gitbook/assets/player.png) **Default Permissions:**\
+&#x20;**Default Permissions:**\
 `chatitemdisplay.command.display.`\
 `chatitemdisplay.display.` \
 `DecorHeads.DropHeads` \

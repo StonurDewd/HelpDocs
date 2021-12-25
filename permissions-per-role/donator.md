@@ -4,7 +4,7 @@ description: Starting @ $5
 
 # 💛 Donator
 
-![](../.gitbook/assets/vip.png)**Donator Permissions:**
+**Donator Permissions:**
 
 `aa.edit`&#x20;
 
