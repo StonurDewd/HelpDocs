@@ -2,6 +2,7 @@
 
 * [🌎 Packets Of Anarchy](README.md)
 * [🗺 Around the Server](around-the-server.md)
+* [🐺 Pets](pets.md)
 * [⚔ Dungeons!](dungeons.md)
 * [🧩 Craftables](craftables.md)
 * [🔥 Common Commands](common-commands.md)

@@ -6,46 +6,30 @@ description: Starting @ $5
 
 ![](../.gitbook/assets/vip.png)**Donator Permissions:**
 
-`ia.user.image.use.* `
+`aa.edit`&#x20;
 
-`aa.edit `
+`aa.visible`&#x20;
 
-`aa.visible `
+`ac.colors`&#x20;
 
-`ac.colors `
+`ac.list`&#x20;
 
-`ac.list `
+`ac.use`&#x20;
 
-`ac.use `
+`essentials.back`&#x20;
 
-`essentials.back `
+`essentials.home`&#x20;
 
-`essentials.home `
+`group.default`&#x20;
 
-`group.default `
+`jukebox.loop`&#x20;
 
-`ia.menu.mobs `
+`jukebox.shuffle`&#x20;
 
-`ia.user.image.anvil `
+`playerkits.kit.diamond`&#x20;
 
-`ia.user.image.book `
+`playerkits.kit.donator`&#x20;
 
-`ia.user.image.chat `
-
-`ia.user.image.gui `
-
-`ia.user.image.hints `
-
-`ia.user.image.sign `
-
-`jukebox.loop `
-
-`jukebox.shuffle `
-
-`playerkits.kit.diamond `
-
-`playerkits.kit.donator `
-
-`prefix.90.§f§r `
+`prefix.90.§f§r`&#x20;
 
 `weight.90`
