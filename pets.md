@@ -20,16 +20,36 @@ So what pets do you get access to?
 
 ![](.gitbook/assets/2021-12-25\_07.26.06.png)
 
-pets listed soon
+* Otter&#x20;
+* Mole&#x20;
+* Deer&#x20;
+* Baby Boar&#x20;
+* Spotted Bunny
+
+
 
 ## Donator Rank Pets
 
 ![](.gitbook/assets/2021-12-25\_07.27.19.png)
 
-pets listed soon
+* Brown Wolf
+* White Bunny&#x20;
+* White Wolf
+* American Eagle&#x20;
+* Brown Bunny
+* Boar
+* Black Wolf
 
 ## Donator+ Rank Pets
 
 ![](.gitbook/assets/2021-12-25\_07.27.54.png)
 
-pets listed soon
+* Black Bunny
+* Gray Bunny
+* Black Eagle&#x20;
+* Brown Eagle&#x20;
+* Stag
+* Blue-Gray Wolf&#x20;
+* Dark-Brown Wolf&#x20;
+* Evil Wolf
+* Spectral Wolf
