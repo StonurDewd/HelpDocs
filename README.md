@@ -1,5 +1,5 @@
 ---
-description: 'Current Version : Paper 1.17.1'
+description: 'Current Version : Paper 1.18.1'
 ---
 
 # 🌎 Packets Of Anarchy
