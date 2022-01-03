@@ -1,8 +1,12 @@
 ---
-description: These dungeons are from Elite Mobs. Do /em ingame to teleport to them.
+description: >-
+  15 Dungeons for Elite Mobs. To access, just head downstairs of the EliteMobs
+  Building.
 ---
 
 # ⚔ Dungeons!
+
+
 
 ![The Oasis](<.gitbook/assets/The Oasis.png>)
 
