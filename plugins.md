@@ -29,7 +29,7 @@ Plugins updated as of 12/23/2021 - <mark style="color:red;">Plugins may have upd
 * LibsDisguises-10.0.26-Premium&#x20;
 * LuckPerms-Bukkit-5.3.74&#x20;
 * LumberJack&#x20;
-* Model-Engine-r2.2.0&#x20;
+* Model-Engine-r2.3.2
 * Multiverse-Core-4.3.1&#x20;
 * Multiverse-Inventories-4.2.2&#x20;
 * Multiverse-Portals-4.2.1&#x20;
