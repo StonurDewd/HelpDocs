@@ -53,10 +53,6 @@
 `jukebox.use` \
 `lumberjack.force` \
 `lumberjack.use` \
-`mexbot.taiga.boar_baby` \
-`mexbot.taiga.bunny_whitebrown` \
-`mexbot.taiga.deer` \
-`mexbot.taiga.mole` \
 `multiverse.core.list.worlds` \
 `multiverse.portal.access` \
 `multiverse.portal.select` \
